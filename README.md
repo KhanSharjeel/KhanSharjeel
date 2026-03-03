@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**KhanSharjeel/KhanSharjeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Sharjeel Khan
 
-Here are some ideas to get you started:
+☁️ Azure Cloud Enthusiast  
+🚀 Exploring Cloud Architecture & DevOps  
+📚 Continuous Learner  
 
-- 🔭 I’m currently working on ...
+
+## 💡 About Me
+
+I'm passionate about Cloud Computing, especially Microsoft Azure.  
+Currently learning and building projects in:
+
+- ☁️ Microsoft Azure
+- 🛠 DevOps & CI/CD
+- 🐳 Docker & Containers
+- 🖥 Backend Development
+- 📊 Data Structures & Algorithms
+
+## 🛠 Tech Stack
+
+**Languages**         **Cloud & DevOps**
+- Microsoft Azure         - CI/CD Pipelines
+- Java                    - Docker
+- C++                     - Git & GitHub
+- HTML
+
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- Azure Services (VMs, Storage, Networking)
+- Infrastructure as Code
+- Kubernetes
+- System Design Basics
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📍 Pakistan  
+📧 53099@students.riphah.edu.pk  
+
+
+- ⚡ Fun fact: I like animals and i own 2 cats. 
+⭐ “Learning something new every day.”
