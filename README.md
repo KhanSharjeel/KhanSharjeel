@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Sharjeel Khan
 
-☁️ Azure Cloud Enthusiasttt  
+☁️ Azure Cloud Enthusiast  
 🚀 Exploring Cloud Architecture & DevOps  
 📚 Continuous Learner  
 
