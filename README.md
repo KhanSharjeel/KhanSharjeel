@@ -35,7 +35,7 @@ Currently learning and building projects in:
 - 📫 How to reach me: ...
 
 - 📍 Pakistan  
-📧 53099@students.riphah.edu.pk  
+📧 sharjeelkhanofficial.22@gmail.com
 
 
 - ⚡ Fun fact: I like animals and i own 2 cats. 
