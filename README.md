@@ -14,7 +14,7 @@ Currently learning and building projects in:
 - ☁️ Microsoft Azure
 - 🛠 DevOps & CI/CD
 - 🐳 Docker & Containers
-- 🖥 Backend Development
+- 🖥 Backend Development firebase & React.js & flutter
 - 📊 Data Structures & Algorithms
 
 ## 🛠 Tech Stack
